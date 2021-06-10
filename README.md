@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprinmarius&theme=gruvbox&count_private=true&layout=compact)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=oprinmarius)
+
 <!--
 **oprinmarius/oprinmarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
