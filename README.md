@@ -1,4 +1,5 @@
 ### Hi there 👋
+![oprinmarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprinmarius&show_icons=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprinmarius&theme=gruvbox&count_private=true&layout=compact)
 
