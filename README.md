@@ -13,7 +13,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/oprinmarius
 [2]: https://www.linkedin.com/in/marius-oprin-3834a750/
 
-![oprinmarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprinmarius&show_icons=true&theme=gotham)
+![oprinmarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprinmarius&show_icons=true&count_private=true&include_all_commits=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprinmarius&theme=gotham&count_private=true&layout=compact)
 
